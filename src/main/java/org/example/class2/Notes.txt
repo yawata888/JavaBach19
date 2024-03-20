@@ -1,0 +1,7 @@
+String:
+String is a mon-primitive data type that is used to store
+multiple characters in a  variable
+
+Sprint concatenation:
+string concatenation allows us to join
+two string together.
